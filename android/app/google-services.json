@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "168836943023",
+    "project_id": "crypto-exchange-1603",
+    "storage_bucket": "crypto-exchange-1603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168836943023:android:661696221b23dc0522985a",
+        "android_client_info": {
+          "package_name": "com.example.crypto_exchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168836943023-lg3aq1itth54lmhg1ccgcur8rdpbf5dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto_exchange",
+            "certificate_hash": "abc4e23db14a16ef7516d8eea41169bbe181ef62"
+          }
+        },
+        {
+          "client_id": "168836943023-4a60b6dade4cq2dhfv3348ks262189rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoDRosDEZLTiwupusGTcyg9sBXJKqy3cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168836943023-4a60b6dade4cq2dhfv3348ks262189rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168836943023-s8vg20bikh9s20asj6eib9v45g0poeg8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptoExchange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

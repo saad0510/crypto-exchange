@@ -1,0 +1,94 @@
+name: crypto_exchange
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  image_picker_widget: ^2.3.0
+  flutter_native_splash: ^2.2.19
+  syncfusion_flutter_charts: ^20.4.54
+
+  provider: ^6.0.4
+  multiple_result: ^4.0.0
+  coingecko_api: ^1.1.0+2
+  responsive_framework: ^0.2.0
+  easy_image_viewer: ^1.2.0
+  click_to_copy: ^0.0.1
+
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.2.4
+  google_sign_in: ^5.4.2
+  cloud_firestore: ^4.3.1
+  firebase_storage: ^11.2.1
+  firebase_analytics: ^10.1.0
+  
+  walletconnect_dart: ^0.0.11
+  url_launcher: ^6.1.10
+  web3dart: ^2.6.1
+  http: ^0.13.5
+  image_picker: ^0.8.7+5
+
+cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_lints: ^2.0.0
+
+flutter_native_splash:
+  color: "#eaeaea"
+  image: assets/images/logo/logo_splash.png
+  branding: assets/images/logo/branding_splash.png
+
+  color_dark: "#1d1d1f"
+  image_dark: assets/images/logo/logo_dark_splash.png
+  branding_dark: assets/images/logo/branding_dark_splash.png
+
+  android_12:
+    color: "#eaeaea"
+    branding: assets/images/logo/branding_splash.png
+
+    color_dark: "#1d1d1f"
+    branding_dark: assets/images/logo/branding_dark_splash.png
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/logo/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins/Poppins-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins/Poppins-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Poppins/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins/Poppins-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins/Poppins-BoldItalic.ttf
+          weight: 700
+          style: italic
