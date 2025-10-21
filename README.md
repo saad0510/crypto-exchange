@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/saad0510/crypto-exchange/main/doc/cover.png" /> 
+
 # Crypto Exchange
 
 A mock cryptocurrency app made with CoinGecko APIs.
