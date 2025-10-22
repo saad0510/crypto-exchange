@@ -18,11 +18,6 @@ A mock cryptocurrency app made with CoinGecko APIs.
   <img src="https://freelogopng.com/images/all_img/1683020772metamask-logo-png.png" height=30px /> &nbsp;
 </div>
 
-## Video
+## Links
 
-[Click here](https://firebasestorage.googleapis.com/v0/b/saadbinkhalid-portfolio.appspot.com/o/crypto%2Fcrypto.mp4?alt=media&token=2406fc53-d2b8-496a-8b2b-8b9cbb9f72b8)
-
-<video controls>
-  <source src="https://firebasestorage.googleapis.com/v0/b/saadbinkhalid-portfolio.appspot.com/o/crypto%2Fcrypto.mp4?alt=media&token=2406fc53-d2b8-496a-8b2b-8b9cbb9f72b8" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+📽️ Video : [Click here](https://firebasestorage.googleapis.com/v0/b/saadbinkhalid-portfolio.appspot.com/o/crypto%2Fcrypto.mp4?alt=media&token=2406fc53-d2b8-496a-8b2b-8b9cbb9f72b8) <br>
