@@ -21,3 +21,6 @@ A mock cryptocurrency app made with CoinGecko APIs.
 ## Links
 
 📽️ Video : [Click here](https://firebasestorage.googleapis.com/v0/b/saadbinkhalid-portfolio.appspot.com/o/crypto%2Fcrypto.mp4?alt=media&token=2406fc53-d2b8-496a-8b2b-8b9cbb9f72b8) <br>
+
+## Developer
+saadbinkhalid.dev@gmail.com
