@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/saad0510/crypto-exchange/main/doc/cover.png" /> 
 
+[![Star this repo](https://img.shields.io/badge/Star-⭐_this_repo-FFEC86?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saad0510/crypto-exchange)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-CD2F30?style=for-the-badge&logo=youtube&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/saadbinkhalid-portfolio.appspot.com/o/crypto%2Fcrypto.mp4?alt=media&token=2406fc53-d2b8-496a-8b2b-8b9cbb9f72b8)
+
 # Crypto Exchange
 
 A mock cryptocurrency app made with CoinGecko APIs.
@@ -17,10 +20,6 @@ A mock cryptocurrency app made with CoinGecko APIs.
   <img src="https://landing.coingecko.com/wp-content/uploads/2020/03/CoinGecko.png" height=30px /> &nbsp;
   <img src="https://freelogopng.com/images/all_img/1683020772metamask-logo-png.png" height=30px /> &nbsp;
 </div>
-
-## Links
-
-📽️ Video : [Click here](https://firebasestorage.googleapis.com/v0/b/saadbinkhalid-portfolio.appspot.com/o/crypto%2Fcrypto.mp4?alt=media&token=2406fc53-d2b8-496a-8b2b-8b9cbb9f72b8) <br>
 
 ## Developer
 saadbinkhalid.dev@gmail.com
